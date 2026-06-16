@@ -6,6 +6,7 @@ An assistive IoT device designed to enhance independent mobility for the visuall
 
 ## 🎥 Project Demonstration
 <img width="491" height="1194" alt="Smart Cane Image 1" src="https://github.com/user-attachments/assets/532731be-ab8f-47eb-a2ed-7fd7be874004" />
+<img width="486" height="1267" alt="Smart Cane Image 2" src="https://github.com/user-attachments/assets/2c399d17-8b7c-445c-823e-ff3b391f1496" />
 
 ---
 
