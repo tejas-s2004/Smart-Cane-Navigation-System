@@ -5,6 +5,8 @@ An ESP32-based navigation cane for the visually impaired integrating RFID tracki
 An assistive IoT device designed to enhance independent mobility for the visually impaired. This system balances real-time environmental awareness and indoor localization by employing non-blocking processing loops on an ESP32 microcontroller.
 
 ## 🎥 Project Demonstration
+<img width="491" height="1194" alt="Smart Cane Image 1" src="https://github.com/user-attachments/assets/532731be-ab8f-47eb-a2ed-7fd7be874004" />
+
 ---
 
 ## 🛠️ System Features
